@@ -1,0 +1,9 @@
+.home{
+    flex: 4;
+    background-image: linear-gradient(to bottom, #ffffff, #faf9ff, #f4f4fe, #eeeefe, #e8e9fe);
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}

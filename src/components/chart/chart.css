@@ -1,0 +1,20 @@
+.chart {
+  margin: 20px;
+  padding: 20px;
+}
+
+.chartTitle {
+  font-size: 25px;
+  margin-bottom: 20px;
+  color: #6745E6;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+  .chart {
+    width: 75%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+}
